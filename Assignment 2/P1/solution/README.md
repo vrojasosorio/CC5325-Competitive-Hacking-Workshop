@@ -33,7 +33,7 @@
      que tiene response code 200 y un nombre muy sospechoso. 
 
 ## Formulario 1: /mySuperSecretHiddenLogin.php
----
+
 Al dirigirnos a http://172.17.69.241:8081/mySuperSecretHiddenLogin.php nos encontramos un _form_ que solicita Username y Password.
 
 1. Al escribir cualquier _password_ equivocada, la página nos arroja el mensaje "Error". 
@@ -54,7 +54,7 @@ Al dirigirnos a http://172.17.69.241:8081/mySuperSecretHiddenLogin.php nos encon
     ```
 
 ## Formulario 2: /password2.php
- ---
+
 Una vez logeados como admin, el servidor nos redirigue a http://172.17.69.241:8081/password2.php
 
 1. Al inspeccionar esta página, tenemos otro formulario y notamos que el botón Enter ejecuta una función al hacer click. Esta función se encuentra en el script de la página y es de la forma
