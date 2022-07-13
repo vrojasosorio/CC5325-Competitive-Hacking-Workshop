@@ -4,7 +4,9 @@ My personal repository of the course Competitive Hacking Workshop dictated in th
 
 ## Credits
 
-All these challenges were created by the Teaching Team during the fall semester 2022 (7th Semester)
+All these challenges were created by the Teaching Team during the fall semester 2022 (7th Semester).
+
+You can see them originally in the official notes of the course: https://tallerdehacking.dcc.uchile.cl/tareas/2022/
 
 Instructors: 
 
