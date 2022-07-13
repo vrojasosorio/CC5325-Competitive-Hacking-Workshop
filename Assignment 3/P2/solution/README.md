@@ -89,7 +89,7 @@ Obtenemos el archivo _file.png_ (éste se guarda en la carpeta donde ejecutamos 
 
 1. Al revisar la data del paquete encontramos dos Hypertext Transfer Protocol 2, le damos click derecho al paquete, luego a Show Packet in New Window para ver mejor la información.
 
-1. Finalmente al extender los datos, vamos al segundo Hypertext Transfer Protocol 2 > Stream > Line-based text data, y tenemos código [html](./HyperText_Transfer_Protocol_2.txt) donde encontraremos la flag en la siguiente linea
+1. Finalmente al extender los datos, vamos al segundo Hypertext Transfer Protocol 2 > Stream > Line-based text data, y tenemos código [html](./HyperText%20Transfer%20Protocol%202.txt) donde encontraremos la flag en la siguiente linea
 
     ```
     <title>cc5325{car3fu1_wh3n_spy1in6_4_Spy} - Pastebin.com</title>\n
