@@ -90,5 +90,4 @@ La flag de este problema es
 
 ##
 
-![secret-login.php](./mySuperSecretHiddenLogin.PNG)
     
